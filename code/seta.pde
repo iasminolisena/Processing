@@ -1,0 +1,9 @@
+size(400,500);
+background(200);
+noStroke();
+fill(0);
+rect(200,0,200,500);
+fill(200);
+triangle(200,0,400,250,200,500);
+fill(0);
+triangle(0,0,200,250,0,500);
